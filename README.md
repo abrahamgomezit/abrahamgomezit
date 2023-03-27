@@ -6,3 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/abrahamgomezit/osTicket-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/abrahamgomezit/osTicket-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/abrahamgomezit/osTicket-Ticket-Lifecycle-Examples)
+
+- <b>Microsoft Azure</b>
+  - [Azure Virtual Machines Traffic Inspection](https://github.com/abrahamgomezit/Azure-Networks-and-Protocols)
