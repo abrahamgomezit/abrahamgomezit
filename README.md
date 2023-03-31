@@ -1,4 +1,4 @@
-<h2>Hello I'm Abraham, an <a href="https://www.linkedin.com/in/abrahamgomez9">IT Professional</a> looking to help the company grow. </h2>
+<h2>Hello I'm Abraham, an IT Professional looking to help the company grow. </h2>
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
