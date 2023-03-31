@@ -17,4 +17,4 @@
   - [Fortune Cookie](https://github.com/abrahamgomezit/main/blob/main/FortuneCookie.py)
   - [Guessing Game](https://github.com/abrahamgomezit/main/blob/main/guessinggame.py)
   - [Mad Lib](https://github.com/abrahamgomezit/main/blob/main/madlib.py)
-  - [Password Generator](https://github.com/abrahamgomezit/Tenable-Nessus-Basic-Scan)
+  - [Password Generator](https://github.com/abrahamgomezit/main/blob/main/passwordgenerator.py)
