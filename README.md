@@ -9,3 +9,6 @@
 
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machines Traffic Inspection](https://github.com/abrahamgomezit/Azure-Networks-and-Protocols)
+
+- <b>Tenable Nessus</b>
+  - [Nessus Essentials Basic Scan](https://github.com/abrahamgomezit/Tenable-Nessus-Basic-Scan)
