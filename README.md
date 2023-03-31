@@ -12,3 +12,9 @@
 
 - <b>Tenable Nessus</b>
   - [Nessus Essentials Basic Scan](https://github.com/abrahamgomezit/Tenable-Nessus-Basic-Scan)
+
+- <b>Python Projects</b>
+  - [Fortune Cookie](https://github.com/abrahamgomezit/FortuneCookie)
+  - [Guessing Game](https://github.com/abrahamgomezit/Tenable-Nessus-Basic-Scan)
+  - [Mad Lib](https://github.com/abrahamgomezit/Tenable-Nessus-Basic-Scan)
+  - [Password Generator](https://github.com/abrahamgomezit/Tenable-Nessus-Basic-Scan)
